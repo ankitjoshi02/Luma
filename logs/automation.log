@@ -1,0 +1,52 @@
+00:23:35.103 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ankit\New folder\Luma\master.xml"
+00:23:35.384 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ankit\New folder\Luma\master.xml
+
+00:23:39.795 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****Starting TC_001_AccountRegistrationTest****
+00:23:39.796 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs started...
+00:23:41.011 [main] INFO  testCases.TC_001_AccountRegistrationTest -  clicked on crate account link
+00:23:41.136 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entered first name
+00:23:41.197 [main] INFO  testCases.TC_001_AccountRegistrationTest - entered last name
+00:23:41.271 [main] INFO  testCases.TC_001_AccountRegistrationTest - entered email
+00:23:41.390 [main] INFO  testCases.TC_001_AccountRegistrationTest - entered password
+00:23:41.474 [main] INFO  testCases.TC_001_AccountRegistrationTest - entered confirm password
+00:23:44.667 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on Create and account button
+00:23:44.872 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected msg...
+00:23:44.872 [main] INFO  testCases.TC_001_AccountRegistrationTest - test passed
+00:23:44.874 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs ended...
+00:23:44.874 [main] INFO  testCases.TC_001_AccountRegistrationTest - finished test case
+00:23:48.663 [main] INFO  testCases.TC_002_LoginTest - *****Started TC_002_LoginTest....****
+00:23:48.663 [main] DEBUG testCases.TC_002_LoginTest - capturing application debug log..
+00:23:48.666 [main] INFO  testCases.TC_002_LoginTest - click on sign in button to from homepage..
+00:23:50.206 [main] INFO  testCases.TC_002_LoginTest - enter email address...
+00:23:50.290 [main] INFO  testCases.TC_002_LoginTest - enter passowrd..
+00:23:52.197 [main] INFO  testCases.TC_002_LoginTest - click on sign in button...
+00:23:52.198 [main] INFO  testCases.TC_002_LoginTest - validation the my account page...
+00:23:53.181 [main] INFO  testCases.TC_002_LoginTest - test pass...
+00:23:53.181 [main] INFO  testCases.TC_002_LoginTest - *****Ended TC_002_LoginTest....****
+00:41:30.228 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ankit\New folder\Luma\master.xml"
+00:41:30.539 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ankit\New folder\Luma\master.xml
+
+00:41:35.156 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****Starting TC_001_AccountRegistrationTest****
+00:41:35.156 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs started...
+00:41:36.102 [main] INFO  testCases.TC_001_AccountRegistrationTest -  clicked on crate account link
+00:41:36.211 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entered first name
+00:41:36.279 [main] INFO  testCases.TC_001_AccountRegistrationTest - entered last name
+00:41:36.349 [main] INFO  testCases.TC_001_AccountRegistrationTest - entered email
+00:41:36.442 [main] INFO  testCases.TC_001_AccountRegistrationTest - entered password
+00:41:36.553 [main] INFO  testCases.TC_001_AccountRegistrationTest - entered confirm password
+00:41:39.549 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on Create and account button
+00:41:39.745 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected msg...
+00:41:39.746 [main] INFO  testCases.TC_001_AccountRegistrationTest - test passed
+00:41:39.747 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs ended...
+00:41:39.747 [main] INFO  testCases.TC_001_AccountRegistrationTest - finished test case
+00:41:43.488 [main] INFO  testCases.TC_002_LoginTest - *****Started TC_002_LoginTest....****
+00:41:43.488 [main] DEBUG testCases.TC_002_LoginTest - capturing application debug log..
+00:41:43.491 [main] INFO  testCases.TC_002_LoginTest - click on sign in button to from homepage..
+00:41:44.406 [main] INFO  testCases.TC_002_LoginTest - enter email address...
+00:41:44.549 [main] INFO  testCases.TC_002_LoginTest - enter passowrd..
+00:41:46.225 [main] INFO  testCases.TC_002_LoginTest - click on sign in button...
+00:41:46.225 [main] INFO  testCases.TC_002_LoginTest - validation the my account page...
+00:41:47.527 [main] INFO  testCases.TC_002_LoginTest - test pass...
+00:41:47.529 [main] INFO  testCases.TC_002_LoginTest - *****Ended TC_002_LoginTest....****
