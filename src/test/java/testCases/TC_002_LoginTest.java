@@ -11,11 +11,12 @@ import testBase.BaseClass;
 public class TC_002_LoginTest extends BaseClass 
 {
 	
-	@Test
+	@Test(groups = {"sanity","master"})
 	public void verify_test() {
 		logger.info("*****Started TC_002_LoginTest....****");
 		logger.debug("capturing application debug log..");
 		try {
+		//Home Page
 		HomePage hp=new HomePage(driver);
 		SignIn si=new SignIn(driver);
 		Dashboard d=new Dashboard(driver);

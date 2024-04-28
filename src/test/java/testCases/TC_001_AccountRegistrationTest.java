@@ -11,7 +11,7 @@ import testBase.BaseClass;
 public class TC_001_AccountRegistrationTest extends BaseClass {
 
 	
-	@Test
+	@Test(groups = {"regression","master"})
 	public void verify_account_registratdriver(){
 		logger.info("****Starting TC_001_AccountRegistrationTest****");
 		logger.debug("application logs started...");

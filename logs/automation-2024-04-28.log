@@ -1,0 +1,54 @@
+00:43:13.905 [main] DEBUG testCases.TC_002_LoginTest - capturing application debug log..
+00:43:13.953 [main] INFO  testCases.TC_002_LoginTest - click on sign in button to from homepage..
+00:43:15.874 [main] INFO  testCases.TC_002_LoginTest - enter email address...
+00:43:16.183 [main] INFO  testCases.TC_002_LoginTest - enter passowrd..
+00:43:18.826 [main] INFO  testCases.TC_002_LoginTest - click on sign in button...
+00:43:18.826 [main] INFO  testCases.TC_002_LoginTest - validation the my account page...
+00:43:20.206 [main] INFO  testCases.TC_002_LoginTest - test pass...
+00:43:20.206 [main] INFO  testCases.TC_002_LoginTest - *****Ended TC_002_LoginTest....****
+01:25:47.098 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ankit\git\Ecommerce\Luma\final.xml"
+01:27:14.385 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ankit\git\Ecommerce\Luma\final.xml"
+01:27:32.730 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****Starting TC_001_AccountRegistrationTest****
+01:27:32.730 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs started...
+01:27:34.893 [main] INFO  testCases.TC_001_AccountRegistrationTest -  clicked on crate account link
+01:27:35.193 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entered first name
+01:27:35.325 [main] INFO  testCases.TC_001_AccountRegistrationTest - entered last name
+01:27:35.540 [main] INFO  testCases.TC_001_AccountRegistrationTest - entered email
+01:27:35.782 [main] INFO  testCases.TC_001_AccountRegistrationTest - entered password
+01:27:36.012 [main] INFO  testCases.TC_001_AccountRegistrationTest - entered confirm password
+01:27:39.720 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on Create and account button
+01:27:39.828 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected msg...
+01:27:39.828 [main] INFO  testCases.TC_001_AccountRegistrationTest - test passed
+01:27:39.833 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs ended...
+01:27:39.833 [main] INFO  testCases.TC_001_AccountRegistrationTest - finished test case
+01:27:45.497 [main] INFO  testCases.TC_002_LoginTest - *****Started TC_002_LoginTest....****
+01:27:45.497 [main] DEBUG testCases.TC_002_LoginTest - capturing application debug log..
+01:27:45.534 [main] INFO  testCases.TC_002_LoginTest - click on sign in button to from homepage..
+01:27:47.401 [main] INFO  testCases.TC_002_LoginTest - enter email address...
+01:27:47.716 [main] INFO  testCases.TC_002_LoginTest - enter passowrd..
+01:27:50.215 [main] INFO  testCases.TC_002_LoginTest - click on sign in button...
+01:27:50.215 [main] INFO  testCases.TC_002_LoginTest - validation the my account page...
+01:28:00.260 [main] ERROR testCases.TC_002_LoginTest - test fails
+01:32:43.009 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ankit\git\Ecommerce\Luma\final.xml"
+01:32:49.013 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****Starting TC_001_AccountRegistrationTest****
+01:32:49.013 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs started...
+01:32:50.896 [main] INFO  testCases.TC_001_AccountRegistrationTest -  clicked on crate account link
+01:32:51.174 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entered first name
+01:32:51.329 [main] INFO  testCases.TC_001_AccountRegistrationTest - entered last name
+01:32:51.568 [main] INFO  testCases.TC_001_AccountRegistrationTest - entered email
+01:32:51.822 [main] INFO  testCases.TC_001_AccountRegistrationTest - entered password
+01:32:52.073 [main] INFO  testCases.TC_001_AccountRegistrationTest - entered confirm password
+01:33:33.755 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on Create and account button
+01:33:33.885 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected msg...
+01:33:33.886 [main] ERROR testCases.TC_001_AccountRegistrationTest - test failed
+14:36:14.580 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ankit\git\Ecommerce\Luma\final.xml"
+14:36:23.123 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****Starting TC_001_AccountRegistrationTest****
+14:36:23.123 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs started...
+14:36:25.050 [main] INFO  testCases.TC_001_AccountRegistrationTest -  clicked on crate account link
+14:36:25.393 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entered first name
+14:36:25.499 [main] INFO  testCases.TC_001_AccountRegistrationTest - entered last name
+14:36:25.669 [main] INFO  testCases.TC_001_AccountRegistrationTest - entered email
+14:36:25.868 [main] INFO  testCases.TC_001_AccountRegistrationTest - entered password
+14:36:26.065 [main] INFO  testCases.TC_001_AccountRegistrationTest - entered confirm password
+14:36:29.122 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on Create and account button
+14:36:29.379 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected msg...

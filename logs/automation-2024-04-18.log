@@ -1,0 +1,61 @@
+12:34:28.362 [main] INFO  testCases.TC_002_LoginTest - click on sign in button...
+12:34:28.369 [main] INFO  testCases.TC_002_LoginTest - validation the my account page...
+12:34:28.835 [main] INFO  testCases.TC_002_LoginTest - test pass...
+12:34:28.843 [main] INFO  testCases.TC_002_LoginTest - *****Ended TC_002_LoginTest....****
+12:35:25.253 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ankit\git\Ecommerce\Luma\grouping.xml"
+12:35:25.805 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ankit\git\Ecommerce\Luma\grouping.xml
+
+12:35:33.270 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****Starting TC_001_AccountRegistrationTest****
+12:35:33.272 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs started...
+12:35:35.701 [main] INFO  testCases.TC_001_AccountRegistrationTest -  clicked on crate account link
+12:35:35.994 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entered first name
+12:35:36.170 [main] INFO  testCases.TC_001_AccountRegistrationTest - entered last name
+12:35:36.455 [main] INFO  testCases.TC_001_AccountRegistrationTest - entered email
+12:35:36.684 [main] INFO  testCases.TC_001_AccountRegistrationTest - entered password
+12:35:36.898 [main] INFO  testCases.TC_001_AccountRegistrationTest - entered confirm password
+12:35:40.626 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on Create and account button
+12:35:40.721 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected msg...
+12:35:40.721 [main] INFO  testCases.TC_001_AccountRegistrationTest - test passed
+12:35:40.724 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs ended...
+12:35:40.724 [main] INFO  testCases.TC_001_AccountRegistrationTest - finished test case
+12:36:27.955 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ankit\git\Ecommerce\Luma\grouping.xml"
+12:36:28.487 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ankit\git\Ecommerce\Luma\grouping.xml
+
+12:37:20.287 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ankit\git\Ecommerce\Luma\grouping.xml"
+12:37:20.940 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ankit\git\Ecommerce\Luma\grouping.xml
+
+12:37:27.547 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****Starting TC_001_AccountRegistrationTest****
+12:37:27.547 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs started...
+12:37:29.855 [main] INFO  testCases.TC_001_AccountRegistrationTest -  clicked on crate account link
+12:37:30.071 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entered first name
+12:37:30.323 [main] INFO  testCases.TC_001_AccountRegistrationTest - entered last name
+12:37:30.602 [main] INFO  testCases.TC_001_AccountRegistrationTest - entered email
+12:37:30.845 [main] INFO  testCases.TC_001_AccountRegistrationTest - entered password
+12:37:31.060 [main] INFO  testCases.TC_001_AccountRegistrationTest - entered confirm password
+12:37:34.540 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on Create and account button
+12:37:34.650 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected msg...
+12:37:34.650 [main] INFO  testCases.TC_001_AccountRegistrationTest - test passed
+12:37:34.653 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs ended...
+12:37:34.653 [main] INFO  testCases.TC_001_AccountRegistrationTest - finished test case
+12:37:40.783 [main] INFO  testCases.TC_002_LoginTest - *****Started TC_002_LoginTest....****
+12:37:40.784 [main] DEBUG testCases.TC_002_LoginTest - capturing application debug log..
+12:37:40.786 [main] INFO  testCases.TC_002_LoginTest - click on sign in button to from homepage..
+12:37:43.096 [main] INFO  testCases.TC_002_LoginTest - enter email address...
+12:37:43.430 [main] INFO  testCases.TC_002_LoginTest - enter passowrd..
+12:37:46.517 [main] INFO  testCases.TC_002_LoginTest - click on sign in button...
+12:37:46.517 [main] INFO  testCases.TC_002_LoginTest - validation the my account page...
+12:37:46.580 [main] INFO  testCases.TC_002_LoginTest - test pass...
+12:37:46.581 [main] INFO  testCases.TC_002_LoginTest - *****Ended TC_002_LoginTest....****
+22:55:04.097 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ankit\git\Ecommerce\Luma\grouping.xml"
+22:55:04.881 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ankit\git\Ecommerce\Luma\grouping.xml
+
+22:55:12.574 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****Starting TC_001_AccountRegistrationTest****
+22:55:12.575 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs started...
+22:55:15.879 [main] INFO  testCases.TC_001_AccountRegistrationTest -  clicked on crate account link
+22:55:16.193 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entered first name
+22:55:16.356 [main] INFO  testCases.TC_001_AccountRegistrationTest - entered last name
+22:55:16.576 [main] INFO  testCases.TC_001_AccountRegistrationTest - entered email

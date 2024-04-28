@@ -110,7 +110,7 @@
                 </children>
               </children>
             </children>
-            <children xsi:type="basic:PartSashContainer" xmi:id="_Ae6FjOdGEe6qBLmJqhQ7WA" containerData="7500" selectedElement="_Ae6FmOdGEe6qBLmJqhQ7WA">
+            <children xsi:type="basic:PartSashContainer" xmi:id="_Ae6FjOdGEe6qBLmJqhQ7WA" containerData="7500" selectedElement="_Ae6FjedGEe6qBLmJqhQ7WA">
               <children xsi:type="basic:PartSashContainer" xmi:id="_Ae6FjedGEe6qBLmJqhQ7WA" containerData="7500" selectedElement="_Ae6FjudGEe6qBLmJqhQ7WA" horizontal="true">
                 <children xsi:type="advanced:Placeholder" xmi:id="_Ae6FjudGEe6qBLmJqhQ7WA" elementId="org.eclipse.ui.editorss" containerData="7500" ref="_AeWE0OdGEe6qBLmJqhQ7WA"/>
                 <children xsi:type="basic:PartSashContainer" xmi:id="_Ae6Fj-dGEe6qBLmJqhQ7WA" containerData="2500">
@@ -224,9 +224,15 @@
       <tags>categoryTag:Help</tags>
     </sharedElements>
     <sharedElements xsi:type="advanced:Area" xmi:id="_AeWE0OdGEe6qBLmJqhQ7WA" elementId="org.eclipse.ui.editorss" selectedElement="_AeWE0edGEe6qBLmJqhQ7WA">
-      <children xsi:type="basic:PartStack" xmi:id="_AeWE0edGEe6qBLmJqhQ7WA" elementId="org.eclipse.e4.primaryDataStack">
+      <children xsi:type="basic:PartStack" xmi:id="_AeWE0edGEe6qBLmJqhQ7WA" elementId="org.eclipse.e4.primaryDataStack" selectedElement="_537vMPdkEe6LkdZzrR1eCw">
         <tags>org.eclipse.e4.primaryDataStack</tags>
         <tags>EditorStack</tags>
+        <children xsi:type="basic:Part" xmi:id="_537vMPdkEe6LkdZzrR1eCw" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="C:\Users\ankit\New\Luma\pom.xml" iconURI="platform:/plugin/org.eclipse.m2e.editor/icons/editor-pom.gif" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.m2e.editor.MavenPomEditor&quot; name=&quot;pom.xml&quot; partName=&quot;C:\Users\ankit\New\Luma\pom.xml&quot; title=&quot;C:\Users\ankit\New\Luma\pom.xml&quot; tooltip=&quot;C:\Users\ankit\New\Luma\pom.xml&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; uri=&quot;file:/C:/Users/ankit/New/Luma/pom.xml&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>removeOnHide</tags>
+          <tags>org.eclipse.m2e.editor.MavenPomEditor</tags>
+        </children>
       </children>
     </sharedElements>
     <sharedElements xsi:type="basic:Part" xmi:id="_AehD8OdGEe6qBLmJqhQ7WA" elementId="org.eclipse.jdt.ui.PackageExplorer" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Package Explorer" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/eview16/package.png" tooltip="" closeable="true">
@@ -388,7 +394,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_AUxSEOdGEe6qBLmJqhQ7WA" elementId="org.eclipse.ui.workbench.file">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_DuNYIPdiEe6F1_rBrWQW7g" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="__83IdedFEe6qBLmJqhQ7WA"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_iPIxkPdnEe6HrrQkyE360A" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="__83IdedFEe6qBLmJqhQ7WA"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_AUxSEedGEe6qBLmJqhQ7WA" elementId="group.edit" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -396,8 +402,8 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_AUx5IOdGEe6qBLmJqhQ7WA" elementId="org.eclipse.ui.workbench.edit">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_DuUF0PdiEe6F1_rBrWQW7g" elementId="undo" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/undo_edit.png" tooltip="Undo" enabled="false" command="__8y3B-dFEe6qBLmJqhQ7WA"/>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_DuV7APdiEe6F1_rBrWQW7g" elementId="redo" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/redo_edit.png" tooltip="Redo" enabled="false" command="__8y3hOdFEe6qBLmJqhQ7WA"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_iPLN0fdnEe6HrrQkyE360A" elementId="undo" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/undo_edit.png" tooltip="Undo" enabled="false" command="__8y3B-dFEe6qBLmJqhQ7WA"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_iPMb8PdnEe6HrrQkyE360A" elementId="redo" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/redo_edit.png" tooltip="Redo" enabled="false" command="__8y3hOdFEe6qBLmJqhQ7WA"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_AUx5IedGEe6qBLmJqhQ7WA" elementId="additions" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -421,7 +427,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_AUx5JedGEe6qBLmJqhQ7WA" elementId="org.eclipse.ui.workbench.navigate">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_DuY-UPdiEe6F1_rBrWQW7g" elementId="org.eclipse.ui.window.pinEditor" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" enabled="false" type="Check" command="__81TvOdFEe6qBLmJqhQ7WA"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_iPMb9vdnEe6HrrQkyE360A" elementId="org.eclipse.ui.window.pinEditor" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" enabled="false" type="Check" command="__81TvOdFEe6qBLmJqhQ7WA"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_AUx5JudGEe6qBLmJqhQ7WA" elementId="group.editor" toBeRendered="false">
         <tags>toolbarSeparator</tags>
