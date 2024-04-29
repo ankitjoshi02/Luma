@@ -14,13 +14,13 @@
       </run>
     </groups>
     <classes>
-      <class name="testCases.TC_001_AccountRegistrationTest">
+      <class name="testCases.TC_005_AddToCard">
         <methods>
           <include name="tearDown"/>
-          <include name="verify_account_registratdriver"/>
+          <include name="verify_test"/>
           <include name="setup"/>
         </methods>
-      </class> <!-- testCases.TC_001_AccountRegistrationTest -->
+      </class> <!-- testCases.TC_005_AddToCard -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->

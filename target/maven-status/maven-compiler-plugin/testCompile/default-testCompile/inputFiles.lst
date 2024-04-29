@@ -9,6 +9,8 @@ C:\Users\ankit\git\Ecommerce\Luma\src\test\java\testBase\BaseClass.java
 C:\Users\ankit\git\Ecommerce\Luma\src\test\java\testCases\TC_001_AccountRegistrationTest.java
 C:\Users\ankit\git\Ecommerce\Luma\src\test\java\testCases\TC_002_LoginTest.java
 C:\Users\ankit\git\Ecommerce\Luma\src\test\java\testCases\TC_003_LoginDDT.java
+C:\Users\ankit\git\Ecommerce\Luma\src\test\java\testCases\TC_004_SearchProduct.java
+C:\Users\ankit\git\Ecommerce\Luma\src\test\java\testCases\TC_005_AddToCard.java
 C:\Users\ankit\git\Ecommerce\Luma\src\test\java\utilities\DataProviders.java
 C:\Users\ankit\git\Ecommerce\Luma\src\test\java\utilities\ExcelUtility.java
 C:\Users\ankit\git\Ecommerce\Luma\src\test\java\utilities\ExtentReportManager.java

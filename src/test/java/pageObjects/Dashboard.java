@@ -21,5 +21,24 @@ public class Dashboard extends BasePage{
 			return (false);
 		}
 	}
+	
+	@FindBy(xpath = "//input[@id='search']") private WebElement searchTextField;
+	public WebElement getSearchTextField() {
+		return searchTextField;
+	}
+	
+	@FindBy(xpath = "//button[@title='Search']") private WebElement searchButton;
+	public WebElement getSearchButton() {
+		return searchButton;
+	}
+	
+	
+	//Actions method
+	public void setItemName(String itemName) {
+		searchTextField.sendKeys(itemName);
+	}
+	public void clickOnSearchButton() {
+		searchButton.click();
+	}
 
 }

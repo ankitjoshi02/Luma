@@ -1,0 +1,56 @@
+01:56:37.140 [main] INFO  testCases.TC_002_LoginTest - test pass...
+01:56:37.146 [main] INFO  testCases.TC_002_LoginTest - *****Ended TC_002_LoginTest....****
+13:57:50.987 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ankit\git\Ecommerce\Luma\grouping.xml"
+13:57:51.574 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ankit\git\Ecommerce\Luma\grouping.xml
+
+13:57:59.756 [main] INFO  testCases.TC_005_AddToCard - *****Started TC_005_AddToCard....****
+13:57:59.757 [main] DEBUG testCases.TC_005_AddToCard - capturing application debug log..
+13:57:59.793 [main] INFO  testCases.TC_005_AddToCard - click on sign in button to from homepage..
+13:58:02.368 [main] INFO  testCases.TC_005_AddToCard - enter email address...
+13:58:02.691 [main] INFO  testCases.TC_005_AddToCard - enter passowrd..
+13:58:05.766 [main] INFO  testCases.TC_005_AddToCard - click on sign in button...
+13:58:05.766 [main] INFO  testCases.TC_005_AddToCard - validation the my account page...
+13:58:06.388 [main] INFO  testCases.TC_005_AddToCard - writing product name
+13:58:06.554 [main] INFO  testCases.TC_005_AddToCard - clicking on search button
+13:58:09.764 [main] INFO  testCases.TC_005_AddToCard - selecting size of the item
+13:58:10.014 [main] INFO  testCases.TC_005_AddToCard - selecting colore of item
+13:58:10.148 [main] INFO  testCases.TC_005_AddToCard - setting number of items
+14:10:46.839 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ankit\git\Ecommerce\Luma\master.xml"
+14:10:47.514 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ankit\git\Ecommerce\Luma\master.xml
+
+14:10:54.371 [main] INFO  testCases.TC_005_AddToCard - *****Started TC_005_AddToCard....****
+14:10:54.371 [main] DEBUG testCases.TC_005_AddToCard - capturing application debug log..
+14:10:54.428 [main] INFO  testCases.TC_005_AddToCard - click on sign in button to from homepage..
+14:10:56.899 [main] INFO  testCases.TC_005_AddToCard - enter email address...
+14:10:57.233 [main] INFO  testCases.TC_005_AddToCard - enter passowrd..
+14:11:00.958 [main] INFO  testCases.TC_005_AddToCard - click on sign in button...
+14:11:00.958 [main] INFO  testCases.TC_005_AddToCard - writing product name
+14:11:01.206 [main] INFO  testCases.TC_005_AddToCard - clicking on search button
+14:11:04.331 [main] INFO  testCases.TC_005_AddToCard - click on the item
+14:11:07.163 [main] INFO  testCases.TC_005_AddToCard - selecting size of the item
+14:11:07.457 [main] INFO  testCases.TC_005_AddToCard - selecting colore of item
+14:11:07.606 [main] INFO  testCases.TC_005_AddToCard - setting number of items
+14:11:07.763 [main] INFO  testCases.TC_005_AddToCard - clicking on add to cart button
+14:11:07.921 [main] INFO  testCases.TC_005_AddToCard - validation of added successfully validation msg
+14:11:09.853 [main] INFO  testCases.TC_005_AddToCard - added to cart msg diaplayed
+14:11:09.853 [main] INFO  testCases.TC_005_AddToCard - *****Ended TC_002_LoginTest....****
+16:58:28.295 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ankit\AppData\Local\Temp\testng-eclipse-1417069384\testng-customsuite.xml"
+16:58:28.862 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+16:58:28.870 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+16:58:28.873 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:58:28.874 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:58:28.875 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:58:28.875 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:58:28.877 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:58:28.878 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:58:28.889 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 8 ms.
+16:58:28.916 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 26 ms.
+16:58:28.919 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:58:28.919 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:58:28.920 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:58:28.921 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:58:28.922 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:58:28.922 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:58:28.928 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
