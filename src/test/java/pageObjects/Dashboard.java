@@ -34,11 +34,15 @@ public class Dashboard extends BasePage{
 	
 	
 	//Actions method
+	public void clickonSearchField() {
+		searchTextField.click();
+	}
+	
 	public void setItemName(String itemName) {
 		searchTextField.sendKeys(itemName);
 	}
 	public void clickOnSearchButton() {
-		searchButton.click();
+		searchButton.submit();
 	}
 
 }

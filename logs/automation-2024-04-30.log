@@ -1,0 +1,67 @@
+23:36:28.309 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ankit\git\Ecommerce\Luma\grouping.xml
+
+23:36:35.177 [main] INFO  testCases.TC_004_EndToEndCase - *****Started TC_004_CheckOut....****
+23:36:35.177 [main] DEBUG testCases.TC_004_EndToEndCase - capturing application debug log..
+23:36:35.230 [main] INFO  testCases.TC_004_EndToEndCase - click on sign in button to from homepage..
+23:36:37.048 [main] INFO  testCases.TC_004_EndToEndCase - enter email address...
+23:36:37.349 [main] INFO  testCases.TC_004_EndToEndCase - enter passowrd..
+23:36:37.594 [main] INFO  testCases.TC_004_EndToEndCase - click on sign in button...
+23:36:40.279 [main] INFO  testCases.TC_004_EndToEndCase - writing product name
+23:36:40.411 [main] INFO  testCases.TC_004_EndToEndCase - clicking on search button
+23:36:43.540 [main] INFO  testCases.TC_004_EndToEndCase - click on the item
+23:36:45.228 [main] INFO  testCases.TC_004_EndToEndCase - selecting size of the item
+23:36:45.410 [main] INFO  testCases.TC_004_EndToEndCase - selecting color of item
+23:36:45.545 [main] INFO  testCases.TC_004_EndToEndCase - setting number of items
+23:36:45.697 [main] INFO  testCases.TC_004_EndToEndCase - clicking on add to cart button
+23:36:45.922 [main] INFO  testCases.TC_004_EndToEndCase - click on cart button...
+23:36:46.076 [main] INFO  testCases.TC_004_EndToEndCase - click on proceed to checkout button
+23:36:49.052 [main] INFO  testCases.TC_004_EndToEndCase - click on new address button
+23:36:50.875 [main] ERROR testCases.TC_004_EndToEndCase - test fails..
+23:37:50.886 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ankit\git\Ecommerce\Luma\grouping.xml"
+23:37:51.555 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ankit\git\Ecommerce\Luma\grouping.xml
+
+23:38:03.587 [main] INFO  testCases.TC_004_EndToEndCase - *****Started TC_004_CheckOut....****
+23:38:03.588 [main] DEBUG testCases.TC_004_EndToEndCase - capturing application debug log..
+23:38:03.629 [main] INFO  testCases.TC_004_EndToEndCase - click on sign in button to from homepage..
+23:38:07.285 [main] INFO  testCases.TC_004_EndToEndCase - enter email address...
+23:38:07.583 [main] INFO  testCases.TC_004_EndToEndCase - enter passowrd..
+23:38:07.800 [main] INFO  testCases.TC_004_EndToEndCase - click on sign in button...
+23:38:12.353 [main] INFO  testCases.TC_004_EndToEndCase - writing product name
+23:38:12.457 [main] INFO  testCases.TC_004_EndToEndCase - clicking on search button
+23:38:15.147 [main] INFO  testCases.TC_004_EndToEndCase - click on the item
+23:38:25.229 [main] ERROR testCases.TC_004_EndToEndCase - test fails..
+23:44:04.953 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ankit\git\Ecommerce\Luma\master.xml"
+23:44:05.603 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ankit\git\Ecommerce\Luma\master.xml
+
+23:44:13.182 [main] INFO  testCases.TC_004_EndToEndCase - *****Started TC_004_CheckOut....****
+23:44:13.183 [main] DEBUG testCases.TC_004_EndToEndCase - capturing application debug log..
+23:44:13.187 [main] ERROR testCases.TC_004_EndToEndCase - test fails..
+23:44:21.992 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ankit\git\Ecommerce\Luma\master.xml"
+23:44:22.554 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ankit\git\Ecommerce\Luma\master.xml
+
+23:44:29.575 [main] INFO  testCases.TC_004_EndToEndCase - *****Started TC_004_CheckOut....****
+23:44:29.575 [main] DEBUG testCases.TC_004_EndToEndCase - capturing application debug log..
+23:44:29.580 [main] ERROR testCases.TC_004_EndToEndCase - test fails..
+23:49:24.311 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ankit\git\Ecommerce\Luma\master.xml"
+23:49:24.933 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ankit\git\Ecommerce\Luma\master.xml
+
+23:49:32.992 [main] INFO  testCases.TC_004_EndToEndCase - *****Started TC_004_CheckOut....****
+23:49:32.993 [main] DEBUG testCases.TC_004_EndToEndCase - capturing application debug log..
+23:49:32.999 [main] ERROR testCases.TC_004_EndToEndCase - test fails..
+23:54:14.326 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ankit\git\Ecommerce\Luma\master.xml"
+23:54:14.979 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ankit\git\Ecommerce\Luma\master.xml
+
+23:54:27.750 [main] INFO  testCases.TC_004_EndToEndCase - *****Started TC_004_CheckOut....****
+23:54:27.752 [main] DEBUG testCases.TC_004_EndToEndCase - capturing application debug log..
+23:54:27.824 [main] INFO  testCases.TC_004_EndToEndCase - click on sign in button to from homepage..
+23:54:30.383 [main] INFO  testCases.TC_004_EndToEndCase - enter email address...
+23:54:30.703 [main] INFO  testCases.TC_004_EndToEndCase - enter passowrd..
+23:54:30.870 [main] INFO  testCases.TC_004_EndToEndCase - click on sign in button...
+23:54:33.910 [main] INFO  testCases.TC_004_EndToEndCase - writing product name
+23:54:34.035 [main] INFO  testCases.TC_004_EndToEndCase - clicking on search button

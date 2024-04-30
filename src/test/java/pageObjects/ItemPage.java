@@ -13,11 +13,11 @@ public class ItemPage extends BasePage {
 	public WebElement getAddToCartButton() {
 		return addToCartButton;
 	}
-	@FindBy(xpath = "//div[text()='XL']") private WebElement sizeSelection;
+	@FindBy(xpath = "//div[text()='36']") private WebElement sizeSelection;
 	public WebElement getSizeSelection() {
 		return sizeSelection;
 	}
-	@FindBy(xpath = "//div[@aria-label='White']") private WebElement colorSelections;
+	@FindBy(xpath = "//div[@option-label='Green']") private WebElement colorSelections;
 	public WebElement getColorSelections() {
 		return colorSelections;
 	}
@@ -55,13 +55,14 @@ public class ItemPage extends BasePage {
 		colorSelections.click();
 	}
 	public void setNumberOfitems(String itemCount) {
+		qtyCount.clear();
 		qtyCount.sendKeys(itemCount);
 	}
 	public void clickOnAddtoCart() {
 		addToCartButton.click();
 	}
 	public void clickOnCart() {
-		cartButton.click();
+		action.click(cartButton).perform();
 	}
 	public void clickOnProceedtoCheckout() {
 		ProceedtoCheckoutButton.click();

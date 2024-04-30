@@ -14,13 +14,13 @@
       </run>
     </groups>
     <classes>
-      <class name="testCases.TC_005_AddToCard">
+      <class name="testCases.TC_004_EndToEndCase">
         <methods>
           <include name="tearDown"/>
-          <include name="verify_test"/>
           <include name="setup"/>
+          <include name="verify_endToEndScenario"/>
         </methods>
-      </class> <!-- testCases.TC_005_AddToCard -->
+      </class> <!-- testCases.TC_004_EndToEndCase -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->

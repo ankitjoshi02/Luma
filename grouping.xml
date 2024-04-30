@@ -22,8 +22,9 @@
 		<classes>
 			<!--<class name="testCases.TC_001_AccountRegistrationTest" />
 			<class name="testCases.TC_002_LoginTest" />
-			<class name="testCases.TC_003_LoginDDT" />-->
-			<class name="testCases.TC_005_AddToCard" />
+			<class name="testCases.TC_003_LoginDDT" />
+			<class name="testCases.TC_005_AddToCard" />-->
+			<class name="testCases.TC_004_EndToEndCase"/>
 		</classes>
 	</test> <!--
 	Test -->

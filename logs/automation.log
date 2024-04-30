@@ -1,24 +1,58 @@
-16:58:28.928 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-16:58:28.945 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-16:58:28.945 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-16:58:28.947 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-16:58:28.947 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-16:58:28.947 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-16:58:28.947 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-16:58:28.949 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
-16:58:28.949 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-16:58:28.952 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-16:58:28.952 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-16:58:28.952 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-16:58:28.953 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-16:58:28.970 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\ankit\AppData\Local\Temp\testng-eclipse-1417069384\testng-customsuite.xml
+03:12:07.464 [main] INFO  testCases.TC_004_EndToEndCase - selecting size of the item
+03:12:07.647 [main] INFO  testCases.TC_004_EndToEndCase - selecting color of item
+03:12:07.927 [main] INFO  testCases.TC_004_EndToEndCase - setting number of items
+03:12:08.227 [main] INFO  testCases.TC_004_EndToEndCase - clicking on add to cart button
+03:12:08.376 [main] INFO  testCases.TC_004_EndToEndCase - verify added to cart succcess msg dispalyed
+03:12:10.056 [main] INFO  testCases.TC_004_EndToEndCase - click on cart button...
+03:12:10.245 [main] INFO  testCases.TC_004_EndToEndCase - click on proceed to checkout button
+03:12:13.078 [main] INFO  testCases.TC_004_EndToEndCase - shipping address verify
+03:12:13.661 [main] INFO  testCases.TC_004_EndToEndCase - entering company name
+03:12:14.791 [main] INFO  testCases.TC_004_EndToEndCase - enter StreetAaddress 1
+03:12:14.970 [main] INFO  testCases.TC_004_EndToEndCase - enter street Address 2
+03:12:15.090 [main] INFO  testCases.TC_004_EndToEndCase - enter street address 3
+03:12:15.201 [main] INFO  testCases.TC_004_EndToEndCase - enter city name
+03:12:15.380 [main] INFO  testCases.TC_004_EndToEndCase - select state
+03:12:15.643 [main] INFO  testCases.TC_004_EndToEndCase - enter postalcode
+03:12:15.864 [main] INFO  testCases.TC_004_EndToEndCase - select country
+03:12:16.101 [main] INFO  testCases.TC_004_EndToEndCase - enter phone number
+03:12:16.331 [main] INFO  testCases.TC_004_EndToEndCase - select shipping methods
+03:12:16.465 [main] INFO  testCases.TC_004_EndToEndCase - click on next button
+03:12:16.585 [main] INFO  testCases.TC_004_EndToEndCase - click on place order button
+03:12:20.010 [main] ERROR testCases.TC_004_EndToEndCase - test fails..
+03:15:15.041 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ankit\git\Ecommerce\Luma\grouping.xml"
+03:15:15.622 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ankit\git\Ecommerce\Luma\grouping.xml
 
-16:58:29.027 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 19 ms.
-16:58:29.216 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@5707c1cb: 38 ms
-16:58:29.316 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@47747fb9: 98 ms
-16:58:29.340 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@66d23e4a: 24 ms
-16:58:29.357 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@581d969c: 17 ms
-16:58:29.371 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@c8b96ec: 13 ms
-16:58:29.382 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@58a55449: 10 ms
-16:58:29.382 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@5949eba8: 0 ms
+03:15:22.216 [main] INFO  testCases.TC_004_EndToEndCase - *****Started TC_004_CheckOut....****
+03:15:22.217 [main] DEBUG testCases.TC_004_EndToEndCase - capturing application debug log..
+03:15:22.280 [main] INFO  testCases.TC_004_EndToEndCase - click on sign in button to from homepage..
+03:15:25.175 [main] INFO  testCases.TC_004_EndToEndCase - enter email address...
+03:15:25.585 [main] INFO  testCases.TC_004_EndToEndCase - enter passowrd..
+03:15:25.766 [main] INFO  testCases.TC_004_EndToEndCase - click on sign in button...
+03:15:28.475 [main] INFO  testCases.TC_004_EndToEndCase - writing product name
+03:15:28.690 [main] INFO  testCases.TC_004_EndToEndCase - clicking on search button
+03:15:31.637 [main] INFO  testCases.TC_004_EndToEndCase - click on the item
+03:15:33.414 [main] INFO  testCases.TC_004_EndToEndCase - selecting size of the item
+03:15:33.614 [main] INFO  testCases.TC_004_EndToEndCase - selecting color of item
+03:15:33.921 [main] INFO  testCases.TC_004_EndToEndCase - setting number of items
+03:15:34.189 [main] INFO  testCases.TC_004_EndToEndCase - clicking on add to cart button
+03:15:34.320 [main] INFO  testCases.TC_004_EndToEndCase - verify added to cart succcess msg dispalyed
+03:15:35.737 [main] INFO  testCases.TC_004_EndToEndCase - click on cart button...
+03:15:35.941 [main] INFO  testCases.TC_004_EndToEndCase - click on proceed to checkout button
+03:15:38.794 [main] INFO  testCases.TC_004_EndToEndCase - shipping address verify
+03:15:39.369 [main] INFO  testCases.TC_004_EndToEndCase - entering company name
+03:15:40.348 [main] INFO  testCases.TC_004_EndToEndCase - enter StreetAaddress 1
+03:15:40.488 [main] INFO  testCases.TC_004_EndToEndCase - enter street Address 2
+03:15:40.651 [main] INFO  testCases.TC_004_EndToEndCase - enter street address 3
+03:15:40.781 [main] INFO  testCases.TC_004_EndToEndCase - enter city name
+03:15:40.948 [main] INFO  testCases.TC_004_EndToEndCase - select state
+03:15:41.212 [main] INFO  testCases.TC_004_EndToEndCase - enter postalcode
+03:15:41.447 [main] INFO  testCases.TC_004_EndToEndCase - select country
+03:15:41.682 [main] INFO  testCases.TC_004_EndToEndCase - enter phone number
+03:15:41.902 [main] INFO  testCases.TC_004_EndToEndCase - select shipping methods
+03:15:42.023 [main] INFO  testCases.TC_004_EndToEndCase - click on next button
+03:15:42.140 [main] INFO  testCases.TC_004_EndToEndCase - click on place order button
+03:15:44.171 [main] INFO  testCases.TC_004_EndToEndCase - verify succes msg
+03:15:48.393 [main] INFO  testCases.TC_004_EndToEndCase - test pass...
+03:15:48.397 [main] DEBUG testCases.TC_004_EndToEndCase - application logs ended...
+03:15:48.397 [main] INFO  testCases.TC_004_EndToEndCase - finished test case

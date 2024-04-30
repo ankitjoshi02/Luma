@@ -10,14 +10,15 @@ public class SearchResultPage extends BasePage{
 		super(driver);
 		PageFactory.initElements(driver, this);
 	}
-	@FindBy(xpath = "//img[@alt=\"Leah Yoga Top\"]") WebElement item1;
+	
+	@FindBy(xpath = "//a[@class='product-item-link'][normalize-space()='Aether Gym Pant']") WebElement item1;
 	public WebElement getItem1() {
 		return item1;
 	}
 	
 	//Actions methods
 	public void clickOnItem() {
-		item1.click();
+		action.click(item1).perform();
 	}
 	
 

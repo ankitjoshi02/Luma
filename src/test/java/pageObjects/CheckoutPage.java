@@ -10,6 +10,11 @@ public class CheckoutPage extends BasePage {
 	public CheckoutPage(WebDriver driver) {
 		super(driver);
 	}
+	
+	@FindBy(xpath = "//button[@class='action action-show-popup']") private WebElement newaddressButton;
+	public WebElement getNewaddressButton() {
+		return newaddressButton;
+	}
 
 	@FindBy(xpath = "//input[@name='company']")
 	private WebElement companyNameTextField;
@@ -67,6 +72,22 @@ public class CheckoutPage extends BasePage {
 	public WebElement getTelephone() {
 		return telephone;
 	}
+	@FindBy(xpath = "//input[@name='ko_unique_2']") private WebElement shippingMethodsRadioButton;
+	
+	public WebElement getShippingMethodsRadioButton() {
+		return shippingMethodsRadioButton;
+	}
+	@FindBy(xpath = "//span[text()='Next']") private WebElement nextButton;
+	
+	public WebElement getNextButton() {
+		return nextButton;
+	}
+	
+	@FindBy(xpath = "//div[text()='Shipping Address']") private WebElement shipingAddressText;
+	
+	public WebElement getShipingAddressText() {
+		return shipingAddressText;
+	}
 
 	// Actions method
 	public void setCompanyName(String companyName) {
@@ -88,18 +109,30 @@ public class CheckoutPage extends BasePage {
 	public void setCity(String cityName) {
 		citytextField.sendKeys(cityName);
 	}
-	public void setState(String stateSelection) {
+	public void setState(String stateSelect) {
 		Select dropdown=new Select(state);
-		dropdown.selectByValue(stateSelection);
+		dropdown.selectByVisibleText(stateSelect);
 	}
 	public void setPostalCode(String postal) {
 		postalCode.sendKeys(postal);
 	}
 	public void setCountry(String countrySelection) {
 		Select dropdown=new Select(country);
-		dropdown.selectByValue(countrySelection);
+		dropdown.selectByVisibleText(countrySelection);
 	}
 	public void settelephone(String mobile) {
 		telephone.sendKeys(mobile);
+	}
+	public void selectShippingMethods() {
+		shippingMethodsRadioButton.click();
+	}
+	public void clickOnNextButton() {
+		nextButton.click();
+	}
+	public void clickonNewAddressButton() {
+		action.click(newaddressButton).perform();;
+	}
+	public void isDisplayedmsg() {
+		shipingAddressText.isDisplayed();
 	}
 }
